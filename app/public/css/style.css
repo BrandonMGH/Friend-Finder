@@ -1,0 +1,43 @@
+body {
+  background-image: url("../images/foreverfriend.jpg");
+  /* -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover; */
+  background-size: cover;
+}
+
+.jumbotron {
+    background: #337ab7;
+  }
+  .logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .body {
+    background: #e4ebf1;
+  }
+  hr {
+    border-color: inherit;
+    margin: 1em 0;
+  }
+  .Mntitle {
+    color: white;
+  }
+
+  .container{
+    
+    opacity: 0.8;
+    filter: alpha(opacity=100); 
+  }
+
+  .bgWhite {
+    background-color: white; 
+    font-size: 16px
+  }
+
+  #ModalChoice img {
+    overflow: hidden;
+    width: 500px;
+  }
+
