@@ -18,6 +18,6 @@ Link to Heroku Page: https://friend-finder-app-ucsd.herokuapp.com/home.html
 
 
 **Screencastify Link:**
-* https://drive.google.com/file/d/1YQDdOH7dL8vClnTYL94NkQjX3lA7yr3i/view
+* https://drive.google.com/file/d/1V3lkHvLQl-oOMjmeOdsRmOqHgkAAD8dF/view
 
 **Author:** Brandon Harris 
