@@ -1,6 +1,6 @@
 **Section 13  Friend Finder Assignment**
 
-![FriendFinderApp](../images/friendfinderapp.jpg)
+[FriendFinderApp](../images/friendfinderapp.jpg)
 
 **Assignment Details:**
 
